@@ -1,0 +1,25 @@
+SQLite
+
+Install SQLite Add-ons for Firefox from:
+https://addons.mozilla.org/en-us/firefox/addon/sqlite-manager/ (Links to an external site.)
+
+Design a database for Purchase Order Management System.
+Create a sample schema with necessary tables from previous step.
+Insert sample data
+Try different queries learnt in this chapter
+
+
+DB2 Express C
+
+Download DB2 express C for your operating system http:// (Links to an external site.)www-03.ibm.com/software/products/en/db2expressc (Links to an external site.)
+Create Sample database (use: db2sampl command)
+Run a sample query (use where clause and Group by)
+Generate query explain plan (use: db2exfmt tool)
+Post the query and db2exfmt output snapshot in a pdf document
+
+
+Graph Data store
+
+Sign up for IBM Bluemix at www.bluemix.net (Links to an external site.)
+Navigate the catalog for Data and Analytics section
+Click on IBM Graph service, create the service and follow the documentation to create a sample graph application using the API documentation: https://ibm-graph-docs.ng.bluemix.net/api.html (Links to an external site.)
