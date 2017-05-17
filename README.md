@@ -18,7 +18,7 @@ CareAdvisor is an Android application developed using IBM Watson Conversation AP
 
 Instructions to run the app:
 
-Prerequiite:
+Pre-requisite:
 Install Android Studio
 
 1.Download files from Care Advisor app folder
