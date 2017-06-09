@@ -10,7 +10,7 @@ The main challenge faced by rural healthcare of India is unavailability of healt
 
 # Solution:
 Project Abstract: <br />
-CareAdvisor is an Android application developed using IBM Watson Conversation API, Speech-to-Text Services on IBM Bluemix (an open standard, cloud platform for building, running, and managing apps and services). CareAdvisor can programmatically learn about individual patients and customize their care. This allows CareAdvisor to turn relevant medical information into individual suggestion in real time all from smartphone. Using IBM Watson, the system recognizes the disease based on the symptoms provided by the. In this application, the detected disease is further linked to Home Remedies and the nearby clinics are listed. 
+CareAdvisor is an Android application developed using IBM Watson Conversation API, Speech-to-Text Services on IBM Bluemix (an open standard, cloud platform for building, running, and managing apps and services). CareAdvisor can programmatically learn about individual patients and customize their care. This allows CareAdvisor to turn relevant medical information into individual suggestion in real time all from smartphone. Using IBM Watson, the system recognizes the disease based on the symptoms provided by the user. In this application, the detected disease is further linked to Home Remedies and the nearby clinics are listed. 
 
 # Architecture Model:
 
